@@ -13,7 +13,3 @@
 ### 下载资料
 
 您可以直接下载单个文件，点击Release下面的压缩文件即可下载
-或者使用Git命令克隆整个仓库到本地，以便离线使用。
-
-```bash
-git clone https://github.com/Yaoyuan-Zhang319/AdministrativeAptitudeTest.git
